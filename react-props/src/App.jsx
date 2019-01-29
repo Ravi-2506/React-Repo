@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import App1 from './State _Example1.jsx';
-import AppProp from './Props_Example1.jsx';
-import AppComp  from  './Comp_Example1.jsx';
-import AppState2 from './State_Exp2.jsx';
+import App1 from './State ExOne.jsx';
+import AppProp from './AppProp.jsx';
+import AppComp  from './CompExOne.jsx';
+import AppState2 from './StateExTwo.jsx';
 
 
 class App extends Component {
